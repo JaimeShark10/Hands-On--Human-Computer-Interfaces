@@ -1,6 +1,6 @@
 # Hands-On--Human-Computer-Interfaces
-Repository with all the activities made with purpose of learning and getting the knowledge to modelate and create systems, functions to predict and simulate. We use an open source software named OpenGL with the capacity to use computer hardware resources and GPU's for the code system and structure.
-
+Repository with all the activities made and tested with purpose of learning and getting the knowledge to modelate and create systems, functions to predict and simulate. We use an open source software named OpenGL with the capacity to use computer hardware resources and GPU's for the code system and structure.
+Here we'll see all compiled files for Planar Geometry 2D and Space Geometry 3D
 # Downloading Raylib libraries to compile
 <img width="1345" height="685" alt="image" src="https://github.com/user-attachments/assets/7837e67c-3b02-415c-9490-f9d44b2b432a" />
 
